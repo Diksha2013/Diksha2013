@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Mohite</h1>
 <h3 align="center">A Passionate Developer focused on Full Stack Development & Problem Solving</h3>
 
-[![](https://komarev.com/ghpvc/?username=Diksha2013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Flutter**
 
